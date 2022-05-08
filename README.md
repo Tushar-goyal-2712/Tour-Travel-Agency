@@ -7,7 +7,7 @@ Tour-Travel Agency
 
 ## 💻 Demo
 
-[Cineflix Clone Website Link](https://tour-travel-agency-by-tushar.netlify.app/)
+[Website Link](https://tour-travel-agency-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
