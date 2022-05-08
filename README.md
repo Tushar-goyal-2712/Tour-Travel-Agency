@@ -1,13 +1,13 @@
 
-#  Cineflix Website Clone
+#  Tour-Travel Agency
 
-Clone of cineflix website
+Tour-Travel Agency
 
 
 
 ## 💻 Demo
 
-[Cineflix Clone Website Link](https://cineflix-movie-website-by-tushar.netlify.app/)
+[Cineflix Clone Website Link](https://tour-travel-agency-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
@@ -15,7 +15,7 @@ Clone of cineflix website
 Clone the project
 
 ```bash
-  git clone https://github.com/Tushar-goyal-2712/Cineflix-Website-clone.git
+  git clone https://github.com/Tushar-goyal-2712/Tour-Travel-Agency.git
 ```
 
 Install node_module dependencies
